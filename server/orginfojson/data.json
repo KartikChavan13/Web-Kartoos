@@ -1,0 +1,41 @@
+[
+  {
+    "id": "",
+    "organization_name": "ABC Ogranization",
+    "address": "asd aavs vdv",
+    "area": "aadasan",
+    "zip": "122345",
+    "road": "jcsanak",
+    "emailid": "kartik@gmail.com",
+    "password": "1234",
+    "image": null,
+    "requiredBloodGroup": [
+      "A+",
+      "AB+"
+    ]
+  },
+  {
+    "id": "",
+    "organization_name": "Xyz Ogranization",
+    "address": "asd aavs vdv",
+    "area": "area",
+    "zip": "zip ",
+    "road": "road",
+    "emailid": "sahil@gmail.com",
+    "password": "1234",
+    "image": null,
+    "requiredBloodGroup": []
+  },
+  {
+    "id": "",
+    "organization_name": "Pqr organization",
+    "address": "asd aavs vdv",
+    "area": "area",
+    "zip": "zip ",
+    "road": "road",
+    "emailid": "tanmay@gmail.com",
+    "password": "1234",
+    "image": null,
+    "requiredBloodGroup": []
+  }
+]

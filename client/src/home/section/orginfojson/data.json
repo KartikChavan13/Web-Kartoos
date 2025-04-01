@@ -1,0 +1,23 @@
+[
+
+  {
+    "id": 1,
+    "title": "XYZ Organization",
+    "address": "name of the building",
+    "area": "aagasan ",
+    "road":"aagasan road",
+    "zip":"400612",
+    "image": "blood/images(5).png"
+    ,"reqiredBloodGroup":"A+,o+"
+  },
+  {
+    "id": 2,
+    "title": "ABC Organization",
+   "address": "name of the building",
+    "area": "aagasan",
+     "road":"aagasan road",
+     "zip":"400612",
+     "reqiredBloodGroup":"",
+    "image": "blood/download(02).jpg"
+  }
+]
